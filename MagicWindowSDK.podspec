@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://www.magicwindow.cn/"
   s.license      = "MIT"
   s.author       = { "MagicWindow" => "support@magicwindow.cn" }
-  s.source       = { :git => "https://github.com/magicwindow/mw-iossdk.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/GitHub-fengtao/mw-iossdk.git", :tag => "#{s.version}" }
   s.platform     = :ios, "7.0"
   s.requires_arc = true
 s.source_files = "MagicWindowSDK/MagicWindowSDK/*.{h,m}"
