@@ -19,6 +19,6 @@ s.xcconfig = {
 'HEADER_SEARCH_PATHS' => '"$(PODS_ROOT)/MagicWindowSDK/MagicWindowSDK"'
 }
 s.frameworks = "AdSupport","CoreTelephony","CoreGraphics","CoreFoundation","SystemConfiguration","CoreLocation","WebKit","ImageIO"
-s.dependency "WechatOpenSDK"
+#s.dependency "WechatOpenSDK"
 
 end
